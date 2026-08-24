@@ -4,9 +4,11 @@ A static, multi-page HTML website for **HG Fashions**, a fashion store catalog c
 
 > "Success is not final; failure is not fatal: It is the courage to continue that counts."
 
+**Live site:** https://saharfatimadevjani.github.io/HGFashion/
+
 ## Overview
 
-The site is a browsable product catalog / brochure site. The home page (`index.html`) links out to category pages for each department, showcases an "Azaadi Sale" pricing table, embeds background audio, and includes social media links plus contact and location details.
+The site is a browsable product catalog / brochure site. The home page (`index.html`) links out to category pages for each department, showcases an "Azaadi Sale" pricing table, embeds background audio, and includes social media links plus contact information.
 
 ## Structure
 
@@ -61,6 +63,4 @@ Then visit `http://localhost:8000`.
 
 ## Contact
 
-- **Email:** hggroups835@gmail.com
-- **Location:** Bahria Town Karachi, Karachi City, Sindh, Pakistan
-- Social links (Facebook, Instagram, YouTube, Twitter) are available via the image map in the footer of the home page.
+Contact details, phone numbers, and social media links are available in the footer of `index.html`.
